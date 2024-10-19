@@ -41,12 +41,12 @@ pip install -r requirements.txt
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/advanced-nlp-tasks.git
+git clone https://github.com/aurag-fouad/Advanced-NLP
 ```
 
 ### 2. Navigate to the repository:
 ```bash
-cd advanced-nlp-tasks
+cd Advanced-NLP
 ```
 
 ### 3. Run the Jupyter notebooks:
