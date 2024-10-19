@@ -2,5 +2,4 @@ Python 3.7+
 Jupyter Notebook
 spaCy
 Gensim
-Hugging Face Transformers
-RoBERTa pre-trained model
+transformers
